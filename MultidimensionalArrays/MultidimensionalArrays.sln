@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSquareWithMaximalSum", "FindSquareWithMaximalSum\FindSquareWithMaximalSum.csproj", "{7C7E1457-A274-43CF-B717-27C9104911DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheLongestSequenceOfEqualStrings", "FindTheLongestSequenceOfEqualStrings\FindTheLongestSequenceOfEqualStrings.csproj", "{964ACE1D-E97E-4DF2-A475-7C93E4E1A36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillMatrixSuccessively", "FillMatrixSuccessively\FillMatrixSuccessively.csproj", "{BEA3D120-29FE-4054-A812-0FE494F5FECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillMatrixLikeInTheExample", "FillMatrixLikeInTheExample\FillMatrixLikeInTheExample.csproj", "{6F6BCFDE-E215-465B-9D7A-6D86EDD114C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillMatrixDiagonally", "FillMatrixDiagonally\FillMatrixDiagonally.csproj", "{D3EE347B-18F7-4423-A59F-09C01ABD5EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillMatrixSpirally", "FillMatrixSpirally\FillMatrixSpirally.csproj", "{58426F8F-BDDA-42E4-B5C4-983E1EC5808E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7E1457-A274-43CF-B717-27C9104911DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7E1457-A274-43CF-B717-27C9104911DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7E1457-A274-43CF-B717-27C9104911DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7E1457-A274-43CF-B717-27C9104911DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964ACE1D-E97E-4DF2-A475-7C93E4E1A36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964ACE1D-E97E-4DF2-A475-7C93E4E1A36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964ACE1D-E97E-4DF2-A475-7C93E4E1A36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964ACE1D-E97E-4DF2-A475-7C93E4E1A36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA3D120-29FE-4054-A812-0FE494F5FECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA3D120-29FE-4054-A812-0FE494F5FECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA3D120-29FE-4054-A812-0FE494F5FECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA3D120-29FE-4054-A812-0FE494F5FECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6BCFDE-E215-465B-9D7A-6D86EDD114C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6BCFDE-E215-465B-9D7A-6D86EDD114C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6BCFDE-E215-465B-9D7A-6D86EDD114C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6BCFDE-E215-465B-9D7A-6D86EDD114C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EE347B-18F7-4423-A59F-09C01ABD5EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EE347B-18F7-4423-A59F-09C01ABD5EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EE347B-18F7-4423-A59F-09C01ABD5EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EE347B-18F7-4423-A59F-09C01ABD5EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58426F8F-BDDA-42E4-B5C4-983E1EC5808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58426F8F-BDDA-42E4-B5C4-983E1EC5808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58426F8F-BDDA-42E4-B5C4-983E1EC5808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58426F8F-BDDA-42E4-B5C4-983E1EC5808E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
