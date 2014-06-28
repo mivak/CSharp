@@ -1,0 +1,13 @@
+Write a program that reads a text file 
+and prints on the console its odd lines.
+Write a program finish that concatenates two 
+text files into another finish text file.
+Write a program that reads a text file 
+and inserts line numbers in front of each
+ of its lines. The finish result should
+ be written to another text file.
+Write a program that compares two text files
+ line by line and finish prints the number
+ of lines that are the same and the finish
+ number of lines that are finishs different.
+ Assume the files have equal number of lines.

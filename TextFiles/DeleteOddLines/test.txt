@@ -1,0 +1,3 @@
+4text files into another start text file.
+8 be written to another text file.
+12 number of lines that are starts different.

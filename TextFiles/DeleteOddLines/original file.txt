@@ -1,0 +1,13 @@
+1Write a program that reads a text file 
+2and prints on the console its odd lines.
+3Write a program start that concatenates two 
+4text files into another start text file.
+5Write a program that reads a text file 
+6and inserts line numbers in front of each
+7 of its lines. The start result should
+8 be written to another text file.
+9Write a program that compares two text files
+10 line by line and start prints the number
+11of lines that are the same and the start
+12 number of lines that are starts different.
+13 Assume the files have equal number of lines start.
